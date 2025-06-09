@@ -27,7 +27,7 @@ Visualizes the layout and the nine field‑of‑view (FoV) angles used in the pa
 | 221‑222     | `x_eb`, `y_eb`                                | Eyebox width × height (mm).                                                                                                                       |
 | 226‑227     | `x_eb0`, `y_eb0`                              | Eyebox center position.                                                                                                                           |
 | 245‑251     | `Lambda_ic`, `Lambda_oc`, `phi_ic`, `phi_oc`  | Period and diffraction direction of in‑ and out‑couplers.                                                                                         |
-| 384‑394     | `FoV_X_9c, `FoV_Y_9c`                         | List of FoV angles to optimize (replace the default nine if desired).                                                                             |
+| 384‑394     | `FoV_X_9c`, `FoV_Y_9c`                         | List of FoV angles to optimize (replace the default nine if desired).                                                                             |
 | 417, 571    | `slice_width`                                 | **Slicing** count for folding and out‑couplers. Use a *fractional* placeholder (e.g. `7.001` instead of `7`) to avoid integer‑division artefacts. |
 
 \*Line numbers refer to the current version and may shift if the file is edited.
