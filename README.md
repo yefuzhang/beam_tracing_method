@@ -69,7 +69,7 @@ Reads the saved beams and performs multi‑objective optimization (default objec
 
 ## 4  `plot_opti_result.py`
 
-Generates publication‑quality plots of the optimisation results. No mandatory edits; run the script and adjust axis labels, colours, or figure size as needed.
+Generates plots of the optimisation results. No mandatory edits; run the script and adjust axis labels, colours, or figure size as needed.
 
 
 
