@@ -1,7 +1,7 @@
 # beam_tracing_method Toolkit for AR Waveguides
 This code was developed by Yefu Zhang (yefuzhang@ucf.edu) and Yuqiang Ding (yuqiang.ding@ucf.edu) under the supervision of Prof. Shin‑Tson Wu (swu@creol.ucf.edu).
 
-This repository accompanies our paper on **A Framework for optimizing uniformity and efficiency in AR waveguide displays with open-source beam tracing method**. It contains four core scripts:
+This repository accompanies our paper on **Optimizing the uniformity and efficiency of AR waveguide displays with an open-source beam tracing method**. It contains four core scripts:
 
 | Script                   | Purpose                                                                                                                             |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
