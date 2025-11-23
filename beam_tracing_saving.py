@@ -135,7 +135,7 @@ def overlap_FOV(polygon1, polygon2):
     if overlap_region.is_empty:
         modified_polygon = polygon2
     else:
-        raw_modified = polygon2.difference(overlap_region)
+        raw_modified = polygon2.difference(polygon1)
         modified_polygon = filter_to_polygons(raw_modified)
 
     return overlap_region, modified_polygon
